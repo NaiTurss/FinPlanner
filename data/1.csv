@@ -1,0 +1,4 @@
+id,amount,category,date,operation_type,comment
+1,5000.0,Аванс,2026-01-09,income,В копилку
+2,3487.0,ЖКХ,2026-01-09,expense,Вывоз мусора
+3,300.0,Связь,2026-01-09,expense,Мобилка
